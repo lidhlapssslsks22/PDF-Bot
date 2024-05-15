@@ -16,5 +16,10 @@ requests
 slackclient
 textblob
 WeasyPrint
+requests
+telebot
+time
+types
+os
 git+https://github.com/zeshuaro/noteshrink.git#egg=noteshrink
 git+https://github.com/zeshuaro/pdf-diff#egg=pdf_diff
